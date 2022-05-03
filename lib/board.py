@@ -1,6 +1,3 @@
-from turtle import position
-
-
 class Board:
   
   def __init__(self):
